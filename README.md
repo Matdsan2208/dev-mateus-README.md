@@ -3,7 +3,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🛡️ Focado em **Cibersegurança** e apaixonado por tecnologia  
-🌱 Aprendendo **Python** e **JavaScript**  
+🌱 Aprendendo **Python** , **JavaScript** , **HTML5** e **CSS3**  
 🧠 Buscando minha primeira oportunidade de **estágio ou trabalho** para aplicar e expandir meus conhecimentos  
 🤝 Aberto a conexões, aprendizado e novos desafios  
 
