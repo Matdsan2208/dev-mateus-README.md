@@ -28,13 +28,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusdomingues&show_icons=true&theme=chartreuse-dark&hide_border=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdomingues&layout=compact&theme=chartreuse-dark&hide_border=true)  
-
----
 
 ## 🌐 Onde me encontrar  
 
