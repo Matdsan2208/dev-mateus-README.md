@@ -28,7 +28,7 @@
 
 - 📫 **Email:** [mateusdomingues94@gmail.com](mailto:mateusdomingues94@gmail.com)  
 - 💼 **LinkedIn:** [Mateus Domingues](www.linkedin.com/in/mateus-domingues-402868370)
-- 🖥️ **GitHub:** [github.com/mateusdomingues](https://github.com/mateusdomingues)  
+- 🖥️ **GitHub:** [github.com/mateusdomingues](https://github.com/Matdsan2208/dev-mateus-README.md.git)  
 
 ---
 
